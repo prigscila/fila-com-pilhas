@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1521488510 source:/home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/fila_completa/fila.c
+	<stdlib.h>
+	"fila.h"
+
+1521488119 /home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/fila_completa/fila.h
+
+1521488527 source:/home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/fila_completa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1521488635 source:/home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/fila/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1521488635 /home/andreu/Dropbox/IFSC/Gaspar/Tecnólogo em ADS/Estruturas de Dados/exemplos/fila/fila.h
+
+1568423103 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\pilhas e filas\fila\fila.c
+	<stdlib.h>
+	"fila.h"
+
+1521488635 d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\pilhas e filas\fila\fila.h
+
+1568422604 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\pilhas e filas\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
